@@ -1,4 +1,4 @@
-# Web3 ProviderEngine
+# Moxie Web3 ProviderEngine
 
 Web3 ProviderEngine is a tool for composing your own [web3 providers](https://github.com/ethereum/wiki/wiki/JavaScript-API#web3).
 
